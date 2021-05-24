@@ -1,12 +1,12 @@
 # Moustache
 
-### Hey !
-#### Je suis passionné de tout ce qui tourne autour de l'informatique : Développement, graphisme, software et hardware.
-#### Je travaille sur quelques projets dont notamment :
+### Hey!
+#### I'm interested in everything that revolves around technologies: Development, graphics, software and hardware.
+#### I'm working on a few projects such as:
 
-#### • ChibiEditor
-#### • Copherya (en pause)
+#### - ChibiEditor
+#### - Copherya (discontinued)
 
-## Me contacter :
+## Contact me:
 
-### Discord : Moustache#0001
+### Discord: Moustache#0001
