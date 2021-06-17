@@ -14,5 +14,6 @@
 ## More about me:
 
 #### I'm now living in Montpellier, France and I'm french speaking (but I'm fluent in English)
+#### Computer: Mac mini (M1, 2020) - MacBook Air 13" (2017)
 
 ###### ;D
