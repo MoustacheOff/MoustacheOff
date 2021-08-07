@@ -1,7 +1,7 @@
 # Moustache
 
 ### Hey!
-#### I'm interested in everything that revolves around technologies: Development, graphics, software and hardware.
+#### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
 #### I'm working on a few projects such as:
 
 #### - ChibiEditor
