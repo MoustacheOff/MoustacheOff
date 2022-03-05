@@ -5,7 +5,7 @@
 #### I'm working on a few projects such as:
 
 #### - ChibiEditor
-#### - Copherya (discontinued)
+#### - Copherya
 
 ## Contact me:
 
