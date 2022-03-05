@@ -6,6 +6,7 @@
 
 #### - ChibiEditor
 #### - Copherya
+(and a couple other things)
 
 ## Contact me:
 
