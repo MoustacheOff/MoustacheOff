@@ -10,8 +10,9 @@
 #### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
 #### I'm working on a few projects such as:
 
-#### - ChibiEditor
+#### - [ChibiEditor](https://github.com/ChibiEditorTeam/)
 #### - Copherya
+#### - Vibin' (free music bot w/ premium features hosted in france 🇫🇷)
 (and a couple other things)
 
 ## Contact me:
