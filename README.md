@@ -10,7 +10,7 @@
 #### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
 #### I'm working on a few projects such as:
 
-#### - ~~ChibiEditor~~ (left the project)
+#### - ChibiEditor
 #### - Copherya
 (and a couple other things)
 
