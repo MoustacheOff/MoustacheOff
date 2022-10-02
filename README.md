@@ -12,7 +12,7 @@
 
 #### - [ChibiEditor](https://github.com/ChibiEditorTeam/)
 #### - Copherya
-#### - Vibin' (free music bot w/ premium features hosted in france 🇫🇷)
+#### - Vibin' (free music bot w/ premium features hosted in France 🇫🇷)
 (and a couple other things)
 
 ## Contact me:
