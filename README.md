@@ -10,9 +10,9 @@
 #### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
 #### I'm working on a few projects such as:
 
-#### - [ChibiEditor](https://chibieditor.ml)
-#### - Copherya
 #### - [Vibin](https://vibin.ml) (free music bot w/ premium features hosted in France 🇫🇷)
+#### - Copherya
+#### - [ChibiEditor](https://chibieditor.ml)
 (and a couple other things)
 
 ## Contact me:
