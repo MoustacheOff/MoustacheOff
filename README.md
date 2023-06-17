@@ -17,7 +17,7 @@
 
 ## Contact me:
 
-### Discord: Moustache#8832
+### Discord: itsmoustache
 
 ## More about me:
 
