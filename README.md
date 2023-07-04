@@ -10,7 +10,7 @@
 #### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
 #### I'm working on a few projects such as:
 
-#### - [Vibin](https://vibin.moustash.dev) (free music bot w/ premium features hosted in France 🇫🇷)
+#### - [Vibin](https://vibin.moustash.dev) (free music bot w/ premium features hosted in France 🇫🇷) // currently unavailable
 #### - Copherya
 #### - [ChibiEditor](https://chibieditor.ml)
 (and a couple other things)
