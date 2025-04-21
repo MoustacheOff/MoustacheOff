@@ -10,8 +10,6 @@
 
 ### Discord: itsmoustache
 
-## More about me:
-
 #### 💻 MacBook Air 13" (M4, 2025)
 
 ###### ;D
