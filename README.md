@@ -6,22 +6,12 @@
 
 # Moustache
 
-### Hey!
-#### I'm interested in everything that revolves around technologies: Development, graphics, hardware and software.
-#### I'm working on a few projects such as:
-
-#### - [Vibin](https://vibin.moustash.dev) (free music bot w/ premium features hosted in France 🇫🇷) // currently unavailable
-#### - Copherya
-#### - [ChibiEditor](https://chibieditor.ml)
-(and a couple other things)
-
 ## Contact me:
 
 ### Discord: itsmoustache
 
 ## More about me:
 
-#### I'm now living in Montpellier, France and I'm french speaking (but I'm fluent in English)
-#### Computer: Mac mini (M1, 2020) - MacBook Air 13" (M2, 2022)
+#### 💻 MacBook Air 13" (M4, 2025)
 
 ###### ;D
